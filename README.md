@@ -10,3 +10,7 @@ Independent research exploring how global financial activity, tokenization, and 
 ## Author
 Buzz Light (12)  
 Independent Research — 2026
+
+© 2026 Buzz Light (12)
+This research is shared for educational and informational purposes.
+Attribution to the author is appreciated when referencing this work.
