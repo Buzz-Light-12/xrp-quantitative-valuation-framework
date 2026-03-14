@@ -3,6 +3,26 @@
 Independent research exploring how global financial infrastructure,
 tokenization, and settlement asset dynamics could influence XRP valuation.
 
+## Key Concept
+
+![Framework](figures/fig30_framework.png)
+
+The framework links:
+
+- Tokenized assets
+- Transaction turnover
+- Settlement velocity
+- Circulating supply
+
+to estimate settlement asset valuation.
+
+## Example Relationship
+
+![Price vs Volume](figures/fig22_price_vs_volume.png)
+
+This chart illustrates how XRP price scales with annual settlement volume
+under different adoption scenarios.
+
 ## Documents
 
 📄 Quantitative Valuation Framework  
