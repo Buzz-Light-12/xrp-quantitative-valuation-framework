@@ -26,7 +26,7 @@ under different adoption scenarios.
 ## Documents
 
 📄 Quantitative Valuation Framework  
-https://github.com/Buzz-Light-12/xrp-quantitative-valuation-framework/blob/main/XRP_Quantitative_Valuation_Framework.pdf
+https://github.com/Buzz-Light-12/xrp-quantitative-valuation-framework/blob/main/XRP_QuantitativeValuationFramework.pdf
 
 📊 XRP Almanach  
 https://github.com/Buzz-Light-12/xrp-quantitative-valuation-framework/blob/main/XRP_Almanach.pdf
