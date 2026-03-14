@@ -5,7 +5,7 @@ tokenization, and settlement asset dynamics could influence XRP valuation.
 
 ## Key Concept
 
-![Framework](Figures/fig30_framework.png)
+![Framework](Figures/figure30_unified_settlement_asset_valuation_framework.png)
 
 The framework links:
 
@@ -18,7 +18,7 @@ to estimate settlement asset valuation.
 
 ## Example Relationship
 
-![Price vs Volume](Figures/fig22_price_vs_volume.png)
+![Price vs Volume](Figures/figure22_xrp_price_vs_settlement_volume.png)
 
 This chart illustrates how XRP price scales with annual settlement volume
 under different adoption scenarios.
